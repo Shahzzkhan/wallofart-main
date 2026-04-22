@@ -1,1 +1,1 @@
-# wallofart-main
+# wallofart
